@@ -1,0 +1,3 @@
+configuration/certificates/*.crt
+configuration/certificates/*.key
+configuration/certificates.yaml

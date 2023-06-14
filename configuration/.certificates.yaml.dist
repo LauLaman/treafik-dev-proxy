@@ -1,0 +1,6 @@
+# Dynamic configuration
+tls:
+  certificates:
+    # first certificate
+    - certFile: /certificates/whoami2.develop.crt
+      keyFile: /certificates/whoami2.develop.key
